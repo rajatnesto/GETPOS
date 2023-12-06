@@ -6,7 +6,7 @@
 Simple, yet powerful POS solutions for businesses
 </div>
 
-## Introduction
+## Introduction 
 
 A cloud-based Get POS solution is a computerized system designed for your retail store, restaurant, multi-store, and supermarket to manage transactions, orders, inventory, and in-store product sales in one go. 
 
